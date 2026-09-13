@@ -1,0 +1,171 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Based on the documents, Python is a high-level programming language known for its simplicity and readability. It was created in 1991 by Guido van Rossum, and it emphasizes code clarity, allowing developers to express concepts in fewer lines of code compared to languages like C++ or Java. Python is also dynamically typed.\n\nAdditionally, Python is used extensively by companies like Google, Facebook, and Netflix, and it has become the go-to language for machine learning (noted as a subset of artificial intelligence), with popular libraries such as TensorFlow, PyTorch, and Scikit-learn supporting this use case.",
+    "expected": [
+      "high-level",
+      "programming language",
+      "simplicity",
+      "readability"
+    ]
+  },
+  {
+    "question": "When was Python created?",
+    "answer": "Python was created in 1991 by Guido van Rossum.",
+    "expected": [
+      "1991",
+      "Guido van Rossum"
+    ]
+  },
+  {
+    "question": "What programming paradigms does Python support?",
+    "answer": "Based on the documents, Python supports multiple programming paradigms, including:\n\n- Procedural\n- Object-oriented\n- Functional programming",
+    "expected": [
+      "procedural",
+      "object-oriented",
+      "functional"
+    ]
+  },
+  {
+    "question": "What can Python be used for?",
+    "answer": "Based on the provided documents, Python can be used for:\n\n1. **Machine learning** - Python has become the go-to language for machine learning, using libraries like TensorFlow, PyTorch, and Scikit-learn to build ML models.\n\n2. **General programming** - Companies like Google, Facebook, and Netflix use Python extensively (though the specific use cases at these companies are not mentioned).\n\nThe documents note that Python is a high-level programming language known for its simplicity, readability, and ability to express concepts in fewer lines of code compared to languages like C++ or Java, which likely contributes to its versatility, though the documents don't elaborate on other specific applications beyond machine learning.",
+    "expected": [
+      "web development",
+      "data analysis",
+      "artificial intelligence"
+    ]
+  },
+  {
+    "question": "Who created Python?",
+    "answer": "Python was created in 1991 by Guido van Rossum.",
+    "expected": [
+      "Guido van Rossum"
+    ]
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of artificial intelligence where computers learn patterns from data to make predictions or decisions without being explicitly programmed.",
+    "expected": [
+      "artificial intelligence",
+      "learn patterns",
+      "data",
+      "decisions"
+    ]
+  },
+  {
+    "question": "Name some machine learning libraries",
+    "answer": "Based on the documents, some machine learning libraries mentioned are:\n\n- TensorFlow\n- PyTorch\n- Scikit-learn",
+    "expected": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn"
+    ]
+  },
+  {
+    "question": "What is the difference between machine learning and deep learning?",
+    "answer": "Based on the documents, deep learning is described as \"a specialized branch of machine learning that uses neural networks with multiple layers to process information.\" \n\nThe documents don't provide a detailed comparison or definition of machine learning itself (beyond mentioning Python as a go-to language for it due to its simplicity and rich ecosystem of ML libraries), so a full comparison between the two isn't mentioned. However, the key distinction noted is:\n\n- **Machine learning** is the broader field mentioned in context of Python's ecosystem of libraries.\n- **Deep learning** is specifically a subset/branch of machine learning that relies on multi-layered neural networks and is used for applications like image recognition, natural language processing, and recommendation systems. It also requires significant computational resources, often using GPUs, for training.",
+    "expected": [
+      "neural networks",
+      "multiple layers",
+      "subset"
+    ]
+  },
+  {
+    "question": "What are neural networks used for?",
+    "answer": "Based on the documents, neural networks (used in deep learning) power applications like:\n\n- Image recognition\n- Natural language processing\n- Recommendation systems",
+    "expected": [
+      "image recognition",
+      "natural language processing",
+      "recommendation"
+    ]
+  },
+  {
+    "question": "What is deep learning?",
+    "answer": "Based on the documents, deep learning is a specialized branch of machine learning that uses neural networks with multiple layers to process information. It powers applications like image recognition, natural language processing, and recommendation systems. Training deep learning models requires significant computational resources, often using GPUs.",
+    "expected": [
+      "neural networks",
+      "multiple layers",
+      "machine learning"
+    ]
+  },
+  {
+    "question": "List all Python libraries mentioned",
+    "answer": "Based on the documents, the Python libraries mentioned are:\n\n- **TensorFlow**\n- **PyTorch**\n- **Scikit-learn**",
+    "expected": [
+      "standard library",
+      "third-party packages"
+    ]
+  },
+  {
+    "question": "What companies use Python?",
+    "answer": "Based on the documents, Google, Facebook, and Netflix use Python extensively.",
+    "expected": [
+      "Google",
+      "Facebook",
+      "Netflix"
+    ]
+  },
+  {
+    "question": "How does Python differ from C++ and Java?",
+    "answer": "Based on the documents, Python differs from C++ and Java in that it allows developers to express concepts in fewer lines of code compared to those languages. Additionally, Python is described as emphasizing code clarity and simplicity, and it is dynamically typed (the document text is cut off before fully explaining what this means in comparison to the other languages).",
+    "expected": [
+      "fewer lines of code",
+      "simplicity"
+    ]
+  },
+  {
+    "question": "What are the benefits of deep learning?",
+    "answer": "Based on the documents, deep learning is described as a specialized branch of machine learning that uses neural networks with multiple layers to process information, and it powers applications like image recognition, natural language processing, and recommendation systems.\n\nThe specific \"benefits\" of deep learning are not mentioned beyond these application areas.",
+    "expected": [
+      "image recognition",
+      "natural language processing"
+    ]
+  },
+  {
+    "question": "Why is Python popular for machine learning?",
+    "answer": "Python is popular for machine learning because of its simplicity and the rich ecosystem of ML libraries.",
+    "expected": [
+      "simplicity",
+      "ecosystem",
+      "libraries"
+    ]
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "answer": "Not mentioned. The provided documents discuss Python's role in machine learning, deep learning, neural networks, and applications like image recognition, natural language processing, and recommendation systems, but they do not contain any information about reinforcement learning.",
+    "expected": [
+      "not mentioned"
+    ]
+  },
+  {
+    "question": "How much does Python cost?",
+    "answer": "Not mentioned. The documents describe Python's features (simplicity, readability, dynamic typing), its history (created in 1991 by Guido van Rossum), and its use in machine learning, but they do not mention any cost or pricing information for Python.",
+    "expected": [
+      "not mentioned"
+    ]
+  },
+  {
+    "question": "What is the latest Python version?",
+    "answer": "Not mentioned. The documents discuss Python's history, features, and use in machine learning, but they do not specify the latest Python version.",
+    "expected": [
+      "not mentioned"
+    ]
+  },
+  {
+    "question": "Which is better, Python or JavaScript?",
+    "answer": "Not mentioned. The documents describe Python's characteristics, history, and use in machine learning, along with companies that use it (Google, Facebook, and Netflix), but they do not provide a comparison between Python and JavaScript or state which is \"better.\"",
+    "expected": [
+      "not mentioned"
+    ]
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "Based on the provided documents, \"neural network\" is mentioned only in the context of deep learning (\"Deep learning is a specialized branch of machine learning that uses neural networks with multiple layers to process information\"), but the documents do not provide a definition of what a neural network actually is.\n\n**Not mentioned.**",
+    "expected": [
+      "neurons",
+      "layers",
+      "machine learning",
+      "deep learning"
+    ]
+  }
+]
